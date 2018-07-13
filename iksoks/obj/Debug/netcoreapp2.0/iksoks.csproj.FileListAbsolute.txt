@@ -1,0 +1,11 @@
+c:\users\jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\iksoks.deps.json
+c:\users\jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\iksoks.runtimeconfig.json
+c:\users\jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\iksoks.runtimeconfig.dev.json
+c:\users\jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\iksoks.dll
+c:\users\jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\iksoks.pdb
+c:\users\jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.csproj.CoreCompileInputs.cache
+c:\users\jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.AssemblyInfoInputs.cache
+c:\users\jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.AssemblyInfo.cs
+c:\users\jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.dll
+c:\users\jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.pdb
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\iksoks.csprojAssemblyReference.cache
