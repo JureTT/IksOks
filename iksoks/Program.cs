@@ -61,7 +61,7 @@ namespace iksoks
                 {
                     komp = new NormalniKomp();
                 }
-                komp.Ime = "Računer";   // možda staviti neko ima iz sprdnje u konstruktore ( Noob, Good, Pro)
+                komp.Ime = "Računalo";   // možda staviti neko ime iz zezancije u konstruktore ( Noob, Good, Pro)
 
                 Console.WriteLine("Odlično, odaberite znak koji želite korstiti tijekom igre, tako što ćete upisati X ili O :");
                 string izbor = SrediUnos(Console.ReadLine());
