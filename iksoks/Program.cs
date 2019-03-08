@@ -6,7 +6,7 @@ namespace iksoks
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav, dobrodošli u igru poznatu igru Iks-Oks. Vjerovatno ste svi već upoznati pravilima igre, no ne škodi ponoviti ih.\n" +
+            Console.WriteLine("Pozdrav, dobrodošli u poznatu igru Iks-Oks. Vjerovatno ste svi već upoznati pravilima igre, no ne škodi ponoviti ih.\n" +
                 "Pravila igre su vrlo jednostavna potrebno je povezat 3 jednaka znaka u niz/liniju, okomito, vodoravno ili dijagolanlno.\n" +
                 "Igru igraju dva igrača nazimjence, stavljajući X ili O u polja (svaki igrač kosiriti uvijek isti znak ovisno o tome koji izabere na poečtku igre).\n" +
                 "Ova verzija igre daje mogućnost igranja protiv kompjutera. Buduće verzije, ako ih bude, će omogućiti i osobama da igraju jedna protiv druge.\n" +
@@ -71,7 +71,7 @@ namespace iksoks
                     izbor = KriviUnos(izbor);
                 }
 
-                //Znak simbol;    //kreiramo ovdje znak objket klase Znak, kako bi joj kasnije dodjelili podtip/podklasu Iks ili Osk
+                //Znak simbol;    //kreiramo ovdje znak objekt klase Znak, kako bi joj kasnije dodjelili podtip/podklasu Iks ili Osk
 
                 if (izbor == "X")
                 {
