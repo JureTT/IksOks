@@ -1,0 +1,14 @@
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.exe
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.deps.json
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.runtimeconfig.json
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.runtimeconfig.dev.json
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.dll
+C:\Users\Jure\source\repos\iksoks\iksoks\bin\Debug\netcoreapp2.0\win-x64\iksoks.pdb
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.csprojAssemblyReference.cache
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.csproj.CoreCompileInputs.cache
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.AssemblyInfoInputs.cache
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.AssemblyInfo.cs
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.dll
+C:\Users\Jure\source\repos\iksoks\iksoks\obj\Debug\netcoreapp2.0\win-x64\iksoks.pdb
